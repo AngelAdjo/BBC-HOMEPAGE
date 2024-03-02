@@ -1,3 +1,18 @@
 .welcome{
     margin: 1rem;
 }
+
+.div-ukraine{
+    color: white;
+    background-image: url(tank.jpeg);
+    height: 400px;
+    width: 800px;
+    margin: 2rem;
+    background-size: cover;
+}
+
+.div-ukraine > h4 {
+    font-size: 2rem;
+    padding-top: 18rem;
+    padding-left: 1.7rem;
+}
